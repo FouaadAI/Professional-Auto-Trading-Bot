@@ -3,6 +3,7 @@
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3.8
+
 **Advanced Algorithmic Trading System with Intelligent Risk Management**
 
 [Features](#-features) • [Installation](#-installation) • [Configuration](#-configuration) • [Usage](#-usage) • [Signal Format](#-signal-format) • [Risk Management](#-risk-management) • [Monitoring](#-monitoring) • [Contributing](#-contributing)
