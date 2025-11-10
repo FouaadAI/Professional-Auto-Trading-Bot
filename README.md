@@ -400,17 +400,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ### Documentation
 - 📚 [Full Documentation](docs/) - Comprehensive usage guide
 - 🎯 [Examples](examples/) - Code examples and tutorials
-- ❓ [FAQ](docs/FAQ.md) - Frequently asked questions
 
-### Community
-- 💬 [Telegram Group](https://t.me/your_group) - Community support
-- 🐛 [Issue Tracker](https://github.com/yourusername/professional-trading-bot/issues) - Report bugs
-- 💡 [Feature Requests](https://github.com/yourusername/professional-trading-bot/issues) - Suggest features
+support
+- 🐛 [Issue Tracker](https://github.com/FouaadAI/professional-trading-bot/issues) - Report bugs
+- 💡 [Feature Requests](https://github.com/FouaadAI/professional-trading-bot/issues) - SuggestSuggestes
 
-### Professional Support
-For enterprise support or custom development, contact: support@yourdomain.com
-
----
 
 <div align="center">
 
