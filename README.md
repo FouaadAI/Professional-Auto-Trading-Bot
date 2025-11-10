@@ -395,15 +395,6 @@ python -m pytest tests/
 
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/FouaadAI/Professional-Auto-Trading-Bot/blob/main/requirements.txt) file for details.
 
-## 🆘 Support
-
-### Documentation
-- 📚 [Full Documentation](docs/) - Comprehensive usage guide
-- 🎯 [Examples](examples/) - Code examples and tutorials
-
-support
-- 🐛 [Issue Tracker](https://github.com/FouaadAI/professional-trading-bot/issues) - Report bugs
-- 💡 [Feature Requests](https://github.com/FouaadAI/professional-trading-bot/issues) - SuggestSuggestes
 
 
 <div align="center">
