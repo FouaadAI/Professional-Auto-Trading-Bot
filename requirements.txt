@@ -1,0 +1,18 @@
+# Trading Bot Requirements
+python-telegram-bot==20.7
+ccxt==4.1.2
+python-dotenv==1.0.0
+sqlite3
+asyncio
+threading
+logging
+datetime
+typing
+decimal
+json
+re
+os
+time
+concurrent.futures
+configparser
+pathlib
