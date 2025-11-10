@@ -393,7 +393,7 @@ python -m pytest tests/
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/FouaadAI/Professional-Auto-Trading-Bot/blob/main/requirements.txt) file for details.
 
 ## 🆘 Support
 
