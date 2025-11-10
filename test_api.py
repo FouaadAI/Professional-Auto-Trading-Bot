@@ -1,8 +1,8 @@
 from binance.client import Client
 
 # Initialize the client with your Testnet keys
-api_key = 'qHAelUMq7GDK82aWaGZcIcECHuNFifTVYfhXxi5RXMIp5CPQbALoqplrvsKlxaSA'
-api_secret = 'eXOBcL0QxoDll8MBFtcutMsNrH8j1fM0unHdDjcOZvnMywsvAsjBnxj1oSB3SAEX'
+api_key = ''
+api_secret = ''
 client = Client(api_key, api_secret, testnet=True)  # Critical for Testnet
 
 def test_api_connection():
@@ -59,4 +59,5 @@ def test_api_connection():
         traceback.print_exc()
 
 if __name__ == "__main__":
+
     test_api_connection()
