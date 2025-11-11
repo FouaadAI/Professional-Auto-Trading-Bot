@@ -61,7 +61,7 @@ Professional Auto-Trading Bot is a sophisticated algorithmic trading system desi
 ### Step 1: Clone Repository
 ```bash
 git clone https://github.com/FouaadAI/professional-Auto-Trading-Bot.git
-cd professional-trading-bot
+cd professional-Auto-trading-bot
 ```
 
 ### Step 2: Install Dependencies
